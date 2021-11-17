@@ -63,3 +63,46 @@
 
 
 
+## Kali Linux and  Offensive Recon
+
+ - Lesson 1 [Kali Linux ](https://youtu.be/B9fGYDM_TU4)
+ - Lesson 2 [/etc/passwd vs /etc/shadow](https://youtu.be/ySNJ46ExbV8)
+ - Lesson 3 [Linux File System](https://youtu.be/lQi7fxVO7Zo)
+ - Lesson 4 [Whois ](https://youtu.be/JGK_KiN7GmM)
+ - Lesson 5 [Overthewire CTF](https://youtube.com/playlist?list=PLz85B8c3OIFayrQKJHnPrxv8QdxNkNPo8) Important 
+ - Lesson 6 [cURL Basics](https://youtu.be/mR5GLQWx8DY)
+
+ - Lesson 7 [NMAP Overview](https://youtu.be/1kWZ1FvOe0o)
+ - Lesson 8 [NMAP TCP Connect Scan](https://youtu.be/KJRbsMOhi7c)
+ - Lesson 9 [NMAP SYN SCAN](https://youtu.be/CxS7gPBLr8k)
+ - Lesson 10 [NMAP in Depth](https://youtu.be/DD3LopYcOYI)
+ - Lesson 11 [NMAP UDP Scan](https://youtu.be/Y8-2S1uBBew)
+ - Lesson 12 [Netcat in Depth](https://youtu.be/Wzc9cgEar7g)
+ - Lesson 13 [All About Encrypted Shell](https://youtu.be/ClcXJ-KI6-I)
+ - Lesson 14 [Bind Shell VS Reverse Shell](https://youtu.be/PMd4mmRuua0)
+ - Lesson 15 [Hydra Tool in Depth](https://youtu.be/-gE4leMl5Gg)
+ - Lesson 16 [CeWL](https://youtu.be/rPBY-xD3FZc)
+ - Lesson 17 [Hashcat in Depth](https://youtu.be/IAPT0sWmvNw)
+ - Lesson 18 [Crunch in Depth](https://youtu.be/bf5dIMn6rp4)
+ - Lesson 19 [Directory Brutforcing with Dirb](https://youtu.be/Q4PJAxlx8nM)
+ - Lesson 20 [Nikto](https://youtu.be/o8lUIX4IYyE)
+ - Lesson 21 [Github Recon](https://youtu.be/DZ6x3hOUUx4)
+ - Lesson 22 [Github Recon Automation](https://youtu.be/vShGbXM6Bik)
+ - Lesson 23 [Google Recon](https://youtu.be/FugTiQ7GoM8)
+ - Lesson 24 [FUFF Ofensive use ](https://youtu.be/e65H7QGJmc0)
+ - Lesson 25 [Wordpress Recon](https://youtu.be/rwUyIXGC3fU)
+ - Lesson 26 [Subdomain Enumeration ](https://youtu.be/Wdzv5csmNjk)
+ - Lesson 27 [Nuclei in depth](https://youtu.be/B5ql2P4fTmQ)
+ - Lesson 28 [Advance Commands ](https://youtu.be/M_T7Kb099pw)
+ - Lesson 29 [Fuzzing](https://youtu.be/pko4Pzxi9sQ)
+ - Lesson 30 [Google Recon](https://youtu.be/FugTiQ7GoM8)
+ - Lesson 31 [FUFF Ofensive use ](https://youtu.be/e65H7QGJmc0)
+ - Lesson 32 [Wordpress Recon](https://youtu.be/rwUyIXGC3fU)
+ - Lesson 33 [Subdomain Enumeration ](https://youtu.be/Wdzv5csmNjk)
+ - Lesson 34 [Nuclei in depth](https://youtu.be/B5ql2P4fTmQ)
+ - Lesson 35[Advance Commands ](https://youtu.be/M_T7Kb099pw)
+ - Lesson 33 [Complete Burpsuite Walkthrough](https://youtube.com/playlist?list=PLJ18l2m4Gsa8XZReywBPTUP7Y_lPfP6pf)
+ - congratulations you have completed all the lessons of kALI Linux and Offensive recon. Now you have Know of kali linux and all the tools and scripts used in Recon.
+
+
+
