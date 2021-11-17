@@ -38,3 +38,27 @@
  - Lesson 20 [What is Proxy & Proxy Server](https://youtu.be/qLa70gOZHxo)
 
 
+## Web Fundamentals
+
+ - Lesson 1 [Vulnerability vs Threat vs Risk | What is Vulnerability](https://youtu.be/ozVHt05Ez_Q)
+ - Lesson 2 [VA vs PT | VAPT](https://youtu.be/kik66k_lZQo)
+ - Lesson 3 [What is SOP](https://youtu.be/RmATaO7DhsQ)
+ - Lesson 4 [URL Encoding VS HTML Encoding](https://youtu.be/xbmGrQa_738)
+ - Lesson 5 [How TCP Header Works](https://youtu.be/nQlhUKbuwT4)
+ - Lesson 6 [HTTP Request Headers](https://youtu.be/31zzBJVcg44)
+
+ - Lesson 7 [UDP Header in Depth](https://youtu.be/4V3BXZI3ju4)
+ - Lesson 8 [How Firewall works](https://youtu.be/2lKoVe9yIr4)
+ - Lesson 9 [ How Ports Work](https://youtu.be/4I91B0Cn4cc)
+ - Lesson 10 [Concepts of web applications](https://youtu.be/RsQ1tFLwldY)
+ - Lesson 11 [Server in depth](https://youtu.be/qlrHDkJescA)
+ - Lesson 12 [ Front end Vs Back End Explained](https://youtu.be/zEn93Km_CdM)
+ - Lesson 13 [Proxy vs reverse proxy vs load balancer](https://youtu.be/MiqrArNSxSM)
+ - Lesson 14 [CMS](https://youtu.be/kucEz0Fc-2I)
+ - Lesson 15 [What is Load Balancing ](https://youtu.be/CN6i2LzGAXY)
+ - Lesson 16 [DNS Records](https://youtu.be/tkDsQO4OAgE)
+ - Lesson 17 [Domain and Hosting](https://youtu.be/R4OcAG-orLg)
+ - congratulations you have completed all the lessons of Web Fundamentals . Now you have understanding of web , But I will request you to go and solve the Web Fundamentals room in tryhackme to test your knowledge.Good Luck  
+
+
+
