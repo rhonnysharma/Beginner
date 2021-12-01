@@ -40,3 +40,19 @@ So plz go through all the lessons
  - Lesson 19 [MAC Address](https://youtu.be/2wV_nkD2TVc)
  - Lesson 20 [What is Proxy & Proxy Server](https://youtu.be/qLa70gOZHxo)
 
+## Module 1  Introduction to Ethical Hacking
+
+ - Lesson 1 [What Is CEHv11](https://youtu.be/BOZPpO8j5AI)
+ - Lesson 2 [CIA Model](https://youtu.be/eEl31u496Yc)
+ - Lesson 3 [Terminology Part 1](https://youtu.be/OLls50tpa9s)
+ - Lesson 4 [Terminology Part 1](https://youtu.be/_5QNpJDer_g)
+ - Lesson 5 [Vulnerability vs Threat vs Risk](https://youtu.be/ozVHt05Ez_Q)
+ - Lesson 6 [Types of Hacker](https://youtu.be/rFenDyaLDCs)
+ - Lesson 7 [Install Kali Linux in Virtual Machine](https://youtu.be/7HuiQUBgri0)
+ - Lesson 8 [History of Kali Linux(https://youtu.be/CTZfWmMAdoI)
+ - Lesson 9 [Kali Linux Commands](https://youtu.be/B9fGYDM_TU4)
+ - Lesson 10 [/etc/passwd vs /etc/shadow](https://youtu.be/ySNJ46ExbV8)
+ - Lesson 11 [Kali Linux Practice](https://youtube.com/playlist?list=PLz85B8c3OIFayrQKJHnPrxv8QdxNkNPo8)
+ - Lesson 12 [Kali Linux Special Command](https://youtu.be/M_T7Kb099pw)
+ 
+
