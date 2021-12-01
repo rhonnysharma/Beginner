@@ -4,6 +4,8 @@
 
 # CEHv11 Guide + Roadmap 
 
+![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCEH%2Fcomments%2Fiuuob0%2Feccouncil_introduces_all_new_cehv11%2F&psig=AOvVaw1E1zW0s5l4vuVT8dSH9Nx5&ust=1638438962027000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjr6P6qwvQCFQAAAAAdAAAAABAD)
+
 You are Thinking that there are many repos, course and other suff so you should complete you cehv11 from here 
 
 Ans - Because I have given here starting to last complete CEH step by step , Its free and I guarantee if you complete all my repo you will be exam ready 
