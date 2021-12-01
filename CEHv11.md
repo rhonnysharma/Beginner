@@ -4,7 +4,7 @@
 
 # CEHv11 Guide + Roadmap 
 
-![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCEH%2Fcomments%2Fiuuob0%2Feccouncil_introduces_all_new_cehv11%2F&psig=AOvVaw1E1zW0s5l4vuVT8dSH9Nx5&ust=1638438962027000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjr6P6qwvQCFQAAAAAdAAAAABAD)
+![Logo](https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)
 
 You are Thinking that there are many repos, course and other suff so you should complete you cehv11 from here 
 
